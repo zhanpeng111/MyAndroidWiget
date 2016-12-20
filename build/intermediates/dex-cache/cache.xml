@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\worktool\sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\pre-dexed\release\support-annotations-24.0.0_945c439061f1f429edbb6fa2c6a3799a0842770c.jar" />
+    </item>
+    <item
+        jar="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-24.0.0_c30838e9fdf0d1fecc45d43287454c4d880e66ee.jar" />
+    </item>
+    <item
+        jar="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\pre-dexed\release\com.android.support-design-24.0.0_49cfcaab28cf46a5dd2f02c2604b5f34f7721426.jar" />
+    </item>
+    <item
+        jar="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.0.0_4a428246366d2f9437a401493924090506a815d5.jar" />
+    </item>
+    <item
+        jar="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\pre-dexed\release\internal_impl-24.0.0_ec3730d7667bc1f446cd2626547a3a0d5fa93775.jar" />
+    </item>
+    <item
+        jar="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.0.0_933575d3bf9c88fb115804d286f3de74106dd219.jar" />
+    </item>
+    <item
+        jar="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.0.0_2ec81229d773bbf0288edfe20181dcd969e03eb9.jar" />
+    </item>
+    <item
+        jar="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.0.0_b3c3899e73a0446ce7632aeb30cdc29334bb4fec.jar" />
+    </item>
+    <item
+        jar="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="I:\Android\widget\AndroidWidgetsDemo-master\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.0.0_43dd76cf7b90297cedb1e518aca58b64052adb56.jar" />
+    </item>
+
+</items>
